@@ -1,0 +1,13 @@
+body {
+    /* --heading-spacing: 0; */
+    /* --p-spacing: 0; */
+    --inline-title-color: white;
+    --background-primary: rgba(0, 0, 0, 255);
+    --background-secondary: rgba(0, 0, 0, 255);
+    --h1-color: rgba(243, 123, 132, 0.9);
+    --h2-color: rgba(255, 217, 140, 0.9);
+    --h3-color: rgba(159, 243, 105, 0.85);
+    --h4-color: rgba(89, 213, 196, 0.85);
+    --h5-color: rgba(42, 138, 255, 0.85);
+    --h6-color: rgba(185, 154, 255, 0.85);
+}

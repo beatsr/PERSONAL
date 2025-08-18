@@ -1,0 +1,3 @@
+# JOURNAL INDEX
+
+- [[Journal/2025/08/index|AUGUST 2025]]
