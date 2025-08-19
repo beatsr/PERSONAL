@@ -1,7 +1,10 @@
 {
-  "readableLineLength": false,
   "spellcheck": false,
-  "newLinkFormat": "relative",
+  "readableLineLength": false,
+  "promptDelete": false,
   "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "newLinkFormat": "relative",
+  "vimMode": false,
   "useTab": false
 }

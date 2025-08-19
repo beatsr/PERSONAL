@@ -1,5 +1,8 @@
 {
   "pinned": [
-    "insert-template"
+    "insert-template",
+    "markdown:toggle-preview",
+    "editor:fold-all",
+    "editor:unfold-all"
   ]
 }
