@@ -22,5 +22,14 @@
       ],
       "key": "."
     }
+  ],
+  "quickadd:choice:14378f14-56aa-40ae-a2ca-e600cbb5fba9": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
   ]
 }
