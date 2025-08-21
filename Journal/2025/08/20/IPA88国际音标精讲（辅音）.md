@@ -28,7 +28,7 @@ tags:
 ==RP== 表示英氏
 ==GenAm== 表示美式
 
-![[_attachments/Pasted image 20250820155549.png|500]]]
+![|500](https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/21184A6E.png)]
 
 ---
 
@@ -71,7 +71,7 @@ tags:
 
 以下为破擦音 `affricate`，先爆破后摩擦
 
-![[_attachments/Pasted image 20250820170047.png|500]]
+![|500](https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/36C19B9E.png)
 
 ---
 
@@ -89,7 +89,7 @@ tags:
 
 以下为摩擦音 `fricative`
 
-![[_attachments/Pasted image 20250820170805.png|500]]
+![|500](https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/D972B52A.png)
 
 ---
 
@@ -150,7 +150,7 @@ tags:
 
 以下为鼻音 `nasal`，鼻腔共鸣
 
-![[_attachments/Pasted image 20250820180430.png|500]]
+![|500](https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/BE753562.png)
 
 /m/
 
@@ -171,7 +171,7 @@ tags:
 
 以下为摩擦音 `Lateral`
 
-![[_attachments/Pasted image 20250820181950.png|500]]
+![|500](https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/8392EB99.png)
 
 /l/
 

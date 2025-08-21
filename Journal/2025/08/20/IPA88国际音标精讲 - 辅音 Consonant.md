@@ -21,7 +21,7 @@ tags:
 - RP 英氏发音
 - GenAm 标准美式发音
 
-![[_attachments/Pasted image 20250820155549.png|500]]
+![|500](https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/21184A6E.png)
 
 ---
 
@@ -30,14 +30,14 @@ tags:
 - 准备动作：双唇稍微用力闭合积累气压，牙齿没有咬合，舌头放松，上下颚肌肉放松，鼻腔阀门不出气
 - 发音：双唇打开，气流喷出，声带不振动
 
-![[_attachments/864BCA35-3992-4501-B7BA-3E1FB88DC6B7.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/7059FCD3.mp3" type="audio/mpeg"></audio>
 
 ### /b/
 
 - 准备动作：双唇稍微用力闭合积累气压，牙齿没有咬合，舌头放松，上下颚肌肉放松，鼻腔阀门不出气
 - 发音：双唇打开，气流喷出，声带振动
 
-![[_attachments/8FFEB659-974B-4ACE-9360-1AAA4DA1635D.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/F1EF2DFF.mp3" type="audio/mpeg"></audio>
 
 ---
 
@@ -46,7 +46,7 @@ tags:
 - 准备动作：嘴唇放松自然分开，上下颚肌肉放松，牙齿没有咬合，舌根不动，舌面抬上去贴住上颚需用点力，鼻腔阀门关闭，肺部积累气压气流往上挤
 - 发音：双唇打开，气流喷出，声带不振动
 
-![[_attachments/844657FF-F755-417C-8FF1-C73E97A4E9AE.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/90AA5225.mp3" type="audio/mpeg"></audio>
 
 ### /t̼/
 
@@ -58,7 +58,7 @@ tags:
 - 发音：双唇打开，气流喷出，声带振动
   PS：`t̼` 表示字母==t==发`/d/` 的情况，只在美音中出现，字母==t==相邻的声带都振动，字母==t==所在音节弱读。如 `city`，`better`
 
-![[_attachments/59D82A17-F798-4797-AE95-9585250E4695.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/F6D6EACD.mp3" type="audio/mpeg"></audio>
 
 ---
 
@@ -67,20 +67,20 @@ tags:
 - 准备动作：嘴唇放松自然分开，上下颚肌肉放松，舌根往上拱，喉咙完全堵住，鼻腔阀门关闭，肺部积累气压
 - 发音：舌根突然降下来，气流喷出，声带不振动
 
-![[_attachments/9691C79B-6F17-467D-A65D-F47B8FD1D9D2 1.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/FCDBD9F9.mp3" type="audio/mpeg"></audio>
 
 ### /g/
 
 - 准备动作：嘴唇放松自然分开，上下颚肌肉放松，舌根往上拱，喉咙完全堵住，鼻腔阀门关闭，肺部积累气压
 - 发音：舌根突然降下来，气流喷出，声带振动
 
-![[_attachments/1B55A54A-84D2-483E-B395-44A6753EA11A.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/FDE0402F.mp3" type="audio/mpeg"></audio>
 
 ## 破擦音
 
 以下为破擦音 `affricate`，先爆破后摩擦
 
-![[_attachments/Pasted image 20250820170047.png|500]]
+![|500](https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/36C19B9E.png)
 
 ---
 
@@ -89,20 +89,20 @@ tags:
 - 准备动作：嘴唇放松自然分开，上下颚肌肉放松，牙齿没有咬合，舌根不动，舌面抬上去贴住上颚需用点力，鼻腔阀门关闭，肺部积累气压气流往上挤
 - 发音：双唇打开，舌头表面的舌尖和上颌之间费力的摩擦出发音，声带不振动
 
-![[_attachments/6FD08C4B-DBC5-4085-BDBE-56643EC81D3C.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/757BD997.mp3" type="audio/mpeg"></audio>
 
 ### /ʤ/
 
 - 准备动作：嘴唇放松自然分开，上下颚肌肉放松，牙齿没有咬合，舌根不动，舌面抬上去贴住上颚需用点力，鼻腔阀门关闭，肺部积累气压气流往上挤
 - 发音：双唇打开，舌头表面的舌尖和上颌之间费力的摩擦出发音，声带振动
 
-![[_attachments/60436FAB-5F07-491B-93CF-C70B4682F542.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/80499190.mp3" type="audio/mpeg"></audio>
 
 ## 摩擦音
 
 以下为摩擦音 `fricative`
 
-![[_attachments/Pasted image 20250821150126.png|500]]
+![|500](https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/FB1F1ACD.png)
 
 ---
 
@@ -111,14 +111,14 @@ tags:
 - 准备动作：上牙轻轻接触下唇的内侧，嘴唇和上下颚都固定住，舌头完全放松，鼻子阀门关闭
 - 发音：气流费力地从上牙和下唇之间摩擦发出，声带不振动
 
-![[_attachments/30BEC4AD-915E-4720-BAEA-4C80D8E1C1B6.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/05EC818F.mp3" type="audio/mpeg"></audio>
 
 ### /v/
 
 - 准备动作：上牙轻轻接触下唇的内侧，嘴唇和上下颚都固定住，舌头完全放松，鼻子阀门关闭
 - 发音：气流费力地从上牙和下唇之间摩擦发出，声带振动
 
-![[_attachments/C15C1E82-A481-4CFE-BA33-848B158785BF.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/1A5E4F2C.mp3" type="audio/mpeg"></audio>
 
 ---
 
@@ -127,14 +127,14 @@ tags:
 - 准备动作：上下嘴唇自然分开完全放松，舌头从上下牙齿之间伸出来大概1.5-2cm，上下牙齿轻轻衔住舌尖，鼻子阀门关闭
 - 发音：气流费力地从舌头和上下牙齿的缝隙摩擦发出，出气的同时舌头往回缩回去，声带不振动
 
-![[_attachments/CEF3C8AB-1036-465C-9F29-DDE5970D0AA3.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/92821B72.mp3" type="audio/mpeg"></audio>
 
 ### /ð/
 
 - 准备动作：上下嘴唇自然分开完全放松，舌头从上下牙齿之间伸出来大概1.5-2cm，上下牙齿轻轻衔住舌尖，鼻子阀门关闭
 - 发音：气流费力地从舌头和上下牙齿的缝隙摩擦发出，出气的同时舌头往回缩回去，声带振动
 
-![[_attachments/4757602C-34D0-4BD2-B1EE-D0B07BC03774.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/D688729F.mp3" type="audio/mpeg"></audio>
 
 ---
 
@@ -143,14 +143,14 @@ tags:
 - 准备动作：双唇自然分开完全放松，上下牙齿轻轻咬合，舌头绷紧伸直，舌尖刚好抵在下牙齿的牙齿根位置，鼻子阀门关闭
 - 发音：气流费力地从上颌和舌头之间出来，然后再从上下牙齿之间缝隙摩擦发出，声带不振动
 
-![[_attachments/A92D2CCB-78EA-40C2-931F-BFD7FE3B7ECB.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/7A9E5398.mp3" type="audio/mpeg"></audio>
 
 ### /z/
 
 - 准备动作：双唇自然分开完全放松，上下牙齿轻轻咬合，舌头绷紧伸直，舌尖刚好抵在下牙齿的牙齿根位置，鼻子阀门关闭
 - 发音：气流费力地从上颌和舌头之间出来，然后再从上下牙齿之间缝隙摩擦发出，声带振动
 
-![[_attachments/D8C9734C-FED2-4377-BE5E-72170E6C3298 1.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/CA144FC4.mp3" type="audio/mpeg"></audio>
 
 ---
 
@@ -159,14 +159,14 @@ tags:
 - 准备动作：嘴唇放松自然分开，上下颚肌肉放松，牙齿没有咬合，舌根不动，舌面抬上去，舌尖舌侧跟上颚之间留出一道细缝，鼻腔阀门关闭
 - 发音：气流从舌尖跟上牙之间费力地摩擦出来，声带不振动
 
-![[_attachments/6674601E-E343-4378-A8E1-57B521E24B9C.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/B1896A7C.mp3" type="audio/mpeg"></audio>
 
 ### /ʒ/
 
 - 准备动作：嘴唇放松自然分开，上下颚肌肉放松，牙齿没有咬合，舌根不动，舌面抬上去，舌尖舌侧跟上颚之间留出一道细缝，鼻腔阀门关闭
 - 发音：气流从舌尖跟上牙之间费力地摩擦出来，声带振动
 
-![[_attachments/5C68671A-08AA-43F1-8BEA-86425F8E9508.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/ADFB6903.mp3" type="audio/mpeg"></audio>
 
 ---
 
@@ -175,53 +175,53 @@ tags:
 - 准备动作： 完全松弛没有动作，上下嘴唇自然分开，上下颚肌肉放松，鼻腔阀门打开
 - 发音：气流自由地从头部完全出来，声带不振动
 
-![[_attachments/8B963EC2-09D1-4EE5-AB58-866157529F83 1.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/AC945026.mp3" type="audio/mpeg"></audio>
 
 ## 鼻音
 
 以下为鼻音 `nasal`，鼻腔共鸣
 
-![[_attachments/Pasted image 20250820180430.png|500]]
+![|500](https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/BE753562.png)
 
 ### /m/
 
 - 准备动作：双唇自然闭合，上下牙齿没有咬合，舌头完全放松，鼻腔阀门打开
 - 发音：气流自由地从鼻腔出来，声带振动
 
-![[_attachments/A530F95F-9AAD-4ACF-8934-15D1D55E08E6.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/08DDD4C4.mp3" type="audio/mpeg"></audio>
 
 ### /n/
 
 - 准备动作：上下唇自然分开完全放松，上下牙齿完全放松，舌根不动，舌面抬上去扣住上颚不用力，鼻腔阀门打开
 - 发音：气流自由地从鼻腔出来，声带振动
 
-![[_attachments/BC459E9A-0D51-4D8D-822E-4F692183A97D.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/91F15899.mp3" type="audio/mpeg"></audio>
 
 ### /ŋ/
 
 - 准备动作：上下唇自然分开完全放松，舌根拱上去把喉咙完全堵住，鼻腔阀门打开
 - 发音：气流自由地从鼻腔出来，声带振动
 
-![[_attachments/262A997E-578E-422C-82E3-8BC7F9563E47.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/C1BF9267.mp3" type="audio/mpeg"></audio>
 
 ## 舌侧音
 
 以下为摩擦音 `Lateral`
 
-![[_attachments/Pasted image 20250820181950.png|500]]
+![|500](https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/8392EB99.png)
 
 ### /l/
 
 - 准备动作：舌头紧张，舌侧往中间缩，舌头和标枪一样直的，舌尖刚好抵住上门牙的牙根，上下牙齿和嘴唇自然分开，鼻腔阀门关闭
 - 发音：舌侧紧张，气流从口腔两边出来，声带振动
 
-![[_attachments/5E7B79A6-7E87-4E62-B640-B5D3B407C90F.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/19696F82.mp3" type="audio/mpeg"></audio>
 
 ### /r/
 
 - 准备动作：舌尖在口腔中悬空着往喉咙的方向勾回来，嘴唇和牙齿自然分开完全放松，鼻腔阀门关闭
 - 发音：气流从口腔两边出来，声带振动
 
-![[_attachments/32DA861F-00C5-42B4-B613-8161F06D46B2.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/4B455AF3.mp3" type="audio/mpeg"></audio>
 
 # Reference

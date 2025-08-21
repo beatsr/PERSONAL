@@ -1,8 +1,6 @@
 {
   "pinned": [
-    "insert-template",
-    "markdown:toggle-preview",
-    "editor:fold-all",
-    "editor:unfold-all"
+    "quickadd:choice:89f924eb-ec55-4ba5-b130-b866c60dbd0e",
+    "insert-template"
   ]
 }

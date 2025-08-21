@@ -19,7 +19,7 @@ tags:
 - 发音时气流有一些阻碍，但阻碍又不明显
 - 元音连读时，经常用半元音过渡
 
-![[_attachments/Pasted image 20250821084651.png|500]]
+![|500](https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/4029DE93.png)
 
 ---
 
@@ -28,7 +28,7 @@ tags:
 - 准备动作：嘴唇和上下牙齿自然分开，舌根往上适当抬一点但不接触上颌，鼻腔阀门打开
 - 发音：舌根降下来，声带振动
 
-![[_attachments/FF1A51BD-A983-4E45-A16A-1E80B924F9FC.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/647AE84C.mp3" type="audio/mpeg"></audio>
 
 ### /w/
 
@@ -36,13 +36,13 @@ tags:
 - 发音：双唇分开，气流出来，声带振动
 - 联想 ==我==
 
-![[_attachments/1CC78F5D-ED74-401B-BE03-63CE7BEBFC21.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/C769CACC.mp3" type="audio/mpeg"></audio>
 
 ## 短元音
 
 以下为短元音
 
-![[_attachments/Pasted image 20250821090021.png|500]]
+![|500](https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/D4797089.png)
 
 ---
 
@@ -52,47 +52,47 @@ tags:
 - 发音：嘴唇放松往中间略收一点，气流出来，声带振动
 - 数数的1
 
-![[_attachments/2CDA6FFC-584A-4EAD-B3A7-7E3D88768E77.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/1D854095.mp3" type="audio/mpeg"></audio>
 
 ### /e/
 
 - 准备动作：嘴角紧张往两边用力拉开，上下牙齿保持1cm的距离，鼻腔阀门打开
 - 发音：舌头中间适度地紧张，舌根往上稍微抬一点点，声带振动
 
-![[_attachments/2A08DA6B-25BF-4F27-AB5D-128B230D80EE.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/17AB218E.mp3" type="audio/mpeg"></audio>
 
 ### /æ/
 
 - 准备动作：下巴往下顶，同时嘴角分开，鼻腔阀门打开
 - 发音：嘴角咧开，声带振动，==老绵羊叫==
 
-![[_attachments/D7C9B54B-613F-471F-8046-049D4B6DD0F1.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/5BEF80D0.mp3" type="audio/mpeg"></audio>
 
 ### /ɒ/
 
 - 只存在英式发音中
 
-![[_attachments/A6E3BD61-9F06-4B28-BE19-A6BA2DCDE655.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/6EEC1588.mp3" type="audio/mpeg"></audio>
 
 ### /ʌ/
 
 - 准备动作：嘴唇和上下颚肌肉完全放松没有动作，舌头完全放松呆在口腔底部，鼻腔阀门打开
 - 发音：重读，气流冲击声带振动
 
-![[_attachments/A17220EC-3223-41B4-8356-682545E8450E.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/597B9FE6.mp3" type="audio/mpeg"></audio>
 
 ### /ʊ/
 
 - 准备动作：嘴唇往中间略收相对放松，不要往前撅，上下牙齿自然分开，舌头完全放松，鼻腔阀门打开
 - 发音：气流出来，声带振动
 
-![[_attachments/8CEB8DAC-14C6-4428-98B1-2D9C5D72BE6F.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/A886E837.mp3" type="audio/mpeg"></audio>
 
 ## 长元音
 
 以下为长元音
 
-![[_attachments/Pasted image 20250821093235.png|500]]
+![|500](https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/114CB55D.png)
 
 ---
 
@@ -102,29 +102,29 @@ tags:
 - 发音：肌肉适当紧张，舌头中间用力，声带振动
 - 联想 ==一==
 
-![[_attachments/CB7AB1A9-E7DF-4801-84DC-C7414F7DC3F1.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/0A14B1A6.mp3" type="audio/mpeg"></audio>
 
 ### /eɪ/
 
 - 准备动作：嘴角咧开，上下牙齿保持1cm的距离
 - 发音：先发左边的音滑动到右边的音，声带振动
 
-![[_attachments/A8023AA6-4DFD-4503-A0E5-7A17D47114AC.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/A677D1FB.mp3" type="audio/mpeg"></audio>
 
 ### /aɪ/
 
 - 发音：先发左边的音（联想中文拼音的 a） 滑动到右边的音，声带振动
 
-![[_attachments/F093C604-BDD4-416F-B441-7CBDBBC8F41A.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/84DB0EE4.mp3" type="audio/mpeg"></audio>
 
 ### /ɔɪ/
 
 - 准备动作：下颚往下拉一点，嘴角放松
 - 发音：先发左边的音滑动到右边的音，声带振动
 
-![[_attachments/A9089DD7-CC28-4022-8B7D-5E545F15DA26.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/07729433.mp3" type="audio/mpeg"></audio>
 
-![[_attachments/Pasted image 20250821103935.png|500]]
+![|500](https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/22BC49AD.png)
 
 ---
 
@@ -133,50 +133,50 @@ tags:
 - 长元音
 - 联想 雾
 
-![[_attachments/1B13AF60-2488-4E8B-A2F5-832A1E664F86 1.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/4F0CB505.mp3" type="audio/mpeg"></audio>
 
 ### /oʊ/
 
 - 嘴角完全放松，上下颚肌肉完全放松，下巴完全放松，舌头也放松
 - 完全放松左边的音滑动到右边的音，声带振动
 
-![[_attachments/C928D6FB-7DCE-4C90-B21B-166067016D0B.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/7C3949E5.mp3" type="audio/mpeg"></audio>
 
 ### /aʊ/
 
 - 左边的音滑动到右边的音，声带振动，前面音重一些，后面的音轻一些
 - 不是奥的音
 
-![[_attachments/19174C93-8B9B-4D34-9FB6-32B78A63DBAC.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/AEF91378.mp3" type="audio/mpeg"></audio>
 
-![[_attachments/Pasted image 20250821102139.png|500]]
+![|500](https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/52C989D9.png)
 
 ### /ɑː/
 
 - 联想 中文==啊==的发音
 
-![[_attachments/9BE24D4E-CDAE-4F4D-B4EC-A9672CD57751.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/9FDC4B8C.mp3" type="audio/mpeg"></audio>
 
 ### /ɑː/
 
 - 美音
 - 发音为 ==a==
 
-![[_attachments/BBFFD74A-3212-4A71-AE86-75128CC74CF9.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/EBF4B95B.mp3" type="audio/mpeg"></audio>
 
 ### /ɔ:/
 
 - 下巴往下拉，嘴唇完全放松，舌头不参与，鼻子阀门打开
 
-![[_attachments/5610505A-B640-48A3-A08D-2AFF36D9762F.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/01C19FD4.mp3" type="audio/mpeg"></audio>
 
 ### /ɝ:/
 
 - 舌尖直接勾向喉咙的方向，但是不能接触上颚，是悬空的，上下嘴唇和这个上下牙齿都是自然分开的，鼻子阀门打开
 
-![[_attachments/C645B89E-A071-4EC7-88F0-69C1CFE69973.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/EB4A8FC3.mp3" type="audio/mpeg"></audio>
 
-![[_attachments/Pasted image 20250821103842.png|500]]
+![|500](https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/247E971E.png)
 
 ---
 
@@ -185,7 +185,7 @@ tags:
 - 数数的1，很短促
 - 出现在单词末尾或是多音节单词中间用来过渡
 
-![[_attachments/9243B1E3-9D38-4C60-9F48-2563710E688D.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/B45D94E4.mp3" type="audio/mpeg"></audio>
 
 ### /ə/
 
@@ -193,13 +193,13 @@ tags:
 - 弱读，微弱气流冲击声带振动
 - 日常会话中出现频率最高，元音弱化为此音弱读
 
-![[_attachments/7E53C74D-0366-4F03-8EEB-AB1BCB3F4564.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/8CDBD436.mp3" type="audio/mpeg"></audio>
 
 ### /u/
 
 - 短促的 乌
 - 出现多音节单词的中间，后面跟着另外的元音，比较罕见
 
-![[_attachments/37D600BA-B3BB-404A-86C7-414E4181EC8E.mp3]]
+<audio controls><source src="https://d2dgt7odtnxylw.cloudfront.net/uploads/2025/08/04F38A9E.mp3" type="audio/mpeg"></audio>
 
 # Reference

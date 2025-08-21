@@ -1,6 +1,12 @@
+*
+!*.md
+!*.sh
+!*.js
+!*.lua
+!.gitignore
+!*/
+
 .obsidian/workspace.json
 .obsidian/graph.json
 .obsidian/themes/
 .obsidian/plugins/
-
-**/_attachments/**
